@@ -7,10 +7,8 @@ package restaurante;
 
 /**
  *
- * @author Mabel
+ * @author Dismaelectric
  */
-public class Cliente {
-    String nombre;
-    int edad;
-    boolean tarjeta;
+public class Bebida {
+    
 }
